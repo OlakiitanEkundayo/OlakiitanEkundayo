@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Olakiitan Ekundayo
+- 👋 Hi, I’m Olakiitan Ekundayo
 - 🌱 I’m currently learning: TailwindCSS and JavaScript
 - 📫 How to reach me: ekundayoolakiitan@gmail.com
 - 😄 Pronouns: He/Him
