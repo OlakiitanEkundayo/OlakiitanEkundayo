@@ -1,40 +1,25 @@
 # 👋 Hi, I'm Olakiitan Ekundayo
 
-I'm a **Backend Developer** focused on building high-performing **SaaS platforms** and **eCommerce websites** using **PHP**, **Laravel**, and **WordPress**.
+Backend developer building eCommerce automation solutions with Laravel and Shopify.
 
-I don’t just write code. I build systems that sell, scale, and perform.
+## What I'm Building
 
----
+I focus on custom backend systems that automate repetitive operations for online stores—inventory management, order processing, multi-platform integration, and workflow automation.
 
-## 🔧 What I Do
+**Tech Stack:**
+- Laravel
+- Shopify & WooCommerce APIs
+- MySQL
+- RESTful APIs
+- Background job processing
 
-- 🚀 **SaaS Development**  
-  Scalable backend logic, user authentication, billing, APIs, and dashboards using Laravel & PHP.
+## Current Projects
 
-- 🛒 **eCommerce Development**  
-  High-converting WordPress/WooCommerce stores with custom features, speed optimization, and conversion-focused architecture.
+🔧 **Event Management REST API** (Learning project)  
+Building a complete REST API with Laravel—authentication, resource relationships, CRUD operations, and business logic validation.
 
-- ⚙️ **Custom Backend Systems**  
-  Admin panels, automation, integrations, and performance-tuned databases.
-
----
-
-## 💡 What Drives Me
-
-I build for **speed, clarity, and outcomes**. Whether it’s a SaaS MVP or an online store, I focus on real business needs, not just fancy code.
-
-> “If you're building something people will pay for, I’ll make sure it works, scales, and performs.”
-
----
-
-## 🛠 Tech Stack
-
-- **Languages**: PHP, JavaScript, MySQL
-- **Frameworks**: Laravel (in progress), WordPress, WooCommerce
-- **Tools**: Git, Composer, REST APIs, TailwindCSS
-- **Coming soon**: Live SaaS starter kit built with Laravel
-
----
+🛒 **Shopify Integration System** (In progress)  
+Laravel application that connects to Shopify's Admin API for product management, inventory monitoring, and automated workflows.
 
 ## 📫 Let’s Connect
 
@@ -42,14 +27,6 @@ I build for **speed, clarity, and outcomes**. Whether it’s a SaaS MVP or an on
 - Email: `ekundayoolakiitan@gmail.com`
 
 ---
-
-## 🧠 Currently Working On
-
-- ⚙️ A high-speed WooCommerce template optimized for conversions
-
----
-
-Let’s build something that drives real results.
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I'm not writing code, I play the keyboard🎹.
