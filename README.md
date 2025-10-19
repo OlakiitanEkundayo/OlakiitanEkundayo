@@ -4,7 +4,7 @@ Backend developer building eCommerce automation solutions with Laravel and Shopi
 
 ## What I'm Building
 
-I focus on custom backend systems that automate repetitive operations for online stores—inventory management, order processing, multi-platform integration, and workflow automation.
+I focus on custom backend systems that automate repetitive operations for online stores; inventory management, order processing, multi-platform integration, and workflow automation.
 
 **Tech Stack:**
 - Laravel
