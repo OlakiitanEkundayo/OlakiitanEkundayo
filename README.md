@@ -17,7 +17,7 @@ My focus: Building robust Laravel backends that connect Shopify APIs, handle web
 - **Principles**: Pain-solving over labels clients buy solutions to overselling and manual work, not "backend dev" titles.
 
 ### Why Work With Me?
-I dive deep into eCommerce pains: Multi-channel syncs, order automation, and ROI-driven features. My edge? Business mindset + technical precision—tools that directly reclaim time and protect revenue.
+I dive deep into eCommerce pains: Multi-channel syncs, order automation, and ROI-driven features. My edge? Business mindset + technical precision tools that directly reclaim time and protect revenue.
 
 
 ### Let's Connect
