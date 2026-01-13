@@ -1,6 +1,6 @@
 # Hi, I'm Olakiitan 👋
 
-Backend developer specializing in API integrations and automation for eCommerce stores. I help mid-sized Shopify and WooCommerce sellers ($200k-5M/year revenue) eliminate manual drudgery like endless inventory checks and order processing that costs them 10-20 hours/week and $3k-8k/month in overselling losses.
+Backend developer specializing in API integrations and automation for eCommerce stores. I help small and mid-sized Shopify and WooCommerce sellers eliminate manual drudgery like endless inventory checks and order processing that costs them 10-20 hours/week and $3k-8k/month in overselling losses.
 
 My focus: Building robust Laravel backends that connect Shopify APIs, handle webhooks for real-time updates, and queue jobs to automate repetitive tasks. Future-proofing with AI integrations for smarter ops.
 
