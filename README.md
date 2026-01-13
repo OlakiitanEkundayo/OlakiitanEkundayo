@@ -5,7 +5,7 @@ Backend developer specializing in API integrations and automation for eCommerce 
 My focus: Building robust Laravel backends that connect Shopify APIs, handle webhooks for real-time updates, and queue jobs to automate repetitive tasks. Future-proofing with AI integrations for smarter ops.
 
 ### What I'm Building Right Now
-- **Shopify Product Fetcher**: A Laravel tool that pulls product data (titles, variants, inventory) via REST API, with pagination and error handling. Foundation for automated inventory alerts saving stores from manual exports.
+- **Shopify Product Fetcher**: A Laravel tool that pulls product data (titles, variants, inventory) via REST API, with pagination and error handling. Foundation for automated inventory alerts - saving stores from manual exports.
 - **Inventory Alert System**: Uses webhooks and background queues to notify when stock dips low, preventing oversells in multi-channel setups.
 - **Multi-Channel Inventory Sync**: Showcase project syncing Shopify data with other platforms, cutting data entry time by hours.
 
